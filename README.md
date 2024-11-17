@@ -18,7 +18,7 @@ A *smart mirror* integrating features like notifications, weather updates, enter
 
 ### *Finance Tracker* 💰
 A *finance tracker* app built with Python and Tkinter, designed to help users manage and track their finances easily.  
-🔗 [FinTrack-Simplify-Your-Finance | Check it out on GitHub](https://github.com/zqwrtyplx/FinTrack-Simplify-Your-Finances.gi)
+🔗 [FinTrack-Simplify-Your-Finance | Check it out on GitHub](https://github.com/senuga-rathnayaka/personal-finance-tracker)
 
 ### *Student Management System* 🏫
 A *student management system* developed with Java to streamline student record management for educational institutions.  
